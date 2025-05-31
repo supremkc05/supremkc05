@@ -1,6 +1,6 @@
 # Hi there, I'm supremkc 👋
 
-**Aspiring Data Scientist and Analysis· Student · Lifelong Learner**
+**Aspiring Data Analysst and UI/UX designer· Student · Lifelong Learner**
 
 ---
 
