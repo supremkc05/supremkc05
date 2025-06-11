@@ -16,7 +16,7 @@
 
 - **Languages/Frameworks:** Python, Java, FastAPI
 - **Data Science:** Machine Learning, Power BI, Excel, Roboflow
-- **Libaries:** sklearn,pandas, tenserflow, numpy, matplotlib, seaborn, plotly, pytorch, pydantic ,scipy
+- **Libaries:** sklearn,pandas, tenserflow, numpy, matplotlib, seaborn, plotly, pytorch, pydantic ,scipy , Streamlit
 - **Devops and tools**: Git/Github, Docker
 - **Desigh and Prototyping** : Figma
 ---
