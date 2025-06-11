@@ -14,13 +14,12 @@
 
 ### 🛠️ Skills & Technologies
 
-- **Languages/Frameworks:** Python, FastAPI
-- **Data Science:** Machine Learning, Power BI, Excel,Roboflow
-- **Version Control:** GitHub
-- **Libaries:** sklearn,pandas,tenserflow,numpy,matplotlib,seaborn,plotly
-
+- **Languages/Frameworks:** Python, Java, FastAPI
+- **Data Science:** Machine Learning, Power BI, Excel, Roboflow
+- **Libaries:** sklearn,pandas, tenserflow, numpy, matplotlib, seaborn, plotly, pytorch, pydantic ,scipy
+- **Devops and tools**: Git/Github, Docker
+- **Desigh and Prototyping** : Figma
 ---
-
 ### 🚀 Projects
 
 - **Pothole Detection Model:**  
