@@ -28,6 +28,8 @@
 - **Trek Analysis:**  
   Analyzing and visualizing trek data to uncover patterns and insights for outdoor enthusiasts.
 
+ - **global Job Market Analysis:**   
+
 ---
 
 ### 🌳 Fun Facts
