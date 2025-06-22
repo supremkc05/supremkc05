@@ -7,7 +7,7 @@
 ### 👩‍💻 About Me
 
 - 🔬 I’m a student passionate about data science and analytics.
-- 🌱 Currently learning everything I can—there’s always something new in tech!
+- 🌱 Currently learning everything I can there’s always something new in tech!
 - ⚡ I thrive on practical projects and hands-on problem solving.
 
 ---
