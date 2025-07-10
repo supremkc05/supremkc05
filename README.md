@@ -29,7 +29,7 @@
   Analyzing and visualizing trek data to uncover patterns and insights for outdoor enthusiasts.
 
  - **Air Bnb Analysis**
-  Data analysis project focused on understanding Airbnb pricing patterns and building predictive models for property pricing optimization.
+  <br>Data analysis project focused on understanding Airbnb pricing patterns and building predictive models for property pricing optimization.
 
 ---
 
