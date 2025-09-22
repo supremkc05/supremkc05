@@ -20,19 +20,6 @@
 - **Devops and tools**: Git/Github, Docker
 - **Desigh and Prototyping** : Figma
 ---
-### 🚀 Projects
-
-- **Pothole Detection Model:**  
-  Leveraging computer vision and machine learning to help identify potholes for safer roads.
-
-- **Trek Analysis:**  
-  Analyzing and visualizing trek data to uncover patterns and insights for outdoor enthusiasts.
-
- - **Air Bnb Analysis**
-  <br>Data analysis project focused on understanding Airbnb pricing patterns and building predictive models for property pricing optimization.
-
----
-
 ### 🌳 Fun Facts
 
 - 🏸 Avid badminton player
