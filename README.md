@@ -6,7 +6,6 @@ I'm an AI/ML student passionate about building data-driven solutions and intuiti
 
 **Contact:**
 - 📧 Email: Supremekc678@gmail.com
-- 📱 Mobile: +977-9848820763
 - 💼 LinkedIn: [Suprem Khatri](https://www.linkedin.com/in/suprem-khatri/)
 - 🌐 GitHub: [@supremkc05](https://github.com/supremkc05)
 
@@ -14,10 +13,10 @@ I'm an AI/ML student passionate about building data-driven solutions and intuiti
 
 ## About Me
 
-- 🔬 AI/ML enthusiast passionate about data science, analytics, and user experience design
-- 🌱 Currently pursuing Bachelor of Computer Science (Honors) with 3.62 CGPA
-- 💡 I thrive on practical projects and hands-on problem solving
-- ⚡ Building end-to-end ML solutions from model development to deployment
+- AI/ML enthusiast passionate about data science, analytics, and user experience design
+- Currently pursuing Bachelor of Computer Science (Honors) with 3.62 CGPA
+- I thrive on practical projects and hands-on problem solving
+- Building end-to-end ML solutions from model development to deployment
 
 ---
 
@@ -46,9 +45,9 @@ I'm an AI/ML student passionate about building data-driven solutions and intuiti
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
 ### AI & NLP Tools: 
-![LangChain](https://img.shields.io/badge/-LangChain-121212? style=flat&logo=chainlink&logoColor=white) 
-![FAISS](https://img.shields.io/badge/-FAISS-00A98F? style=flat&logo=meta&logoColor=white) 
-![Roboflow](https://img.shields.io/badge/-Roboflow-6706CE? style=flat&logo=roboflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat&logo=chainlink&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-00A98F?style=flat&logo=meta&logoColor=white)
+![Roboflow](https://img.shields.io/badge/-Roboflow-6706CE?style=flat&logo=roboflow&logoColor=white)
 
 ### Database:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
@@ -57,7 +56,7 @@ I'm an AI/ML student passionate about building data-driven solutions and intuiti
 ### Tools & Platforms:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED? style=flat&logo=docker&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
