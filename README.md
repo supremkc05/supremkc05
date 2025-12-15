@@ -4,7 +4,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
 - 🔬 I’m a student passionate about data science and analytics.
 - 🌱 Currently learning everything I can there’s always something new in tech!
@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
 - **Languages/Frameworks:** Python, Java, FastAPI
 - **Data Science:** Machine Learning, Power BI, Excel, Roboflow
@@ -22,8 +22,8 @@
 ---
 ### 🌳 Fun Facts
 
-- 🏸 Avid badminton player
-- 🌲 Prefer being in nature over sitting indoors
+- Avid badminton player
+- Prefer being in nature over sitting indoors
 
 ---
 
