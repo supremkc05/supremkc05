@@ -1,7 +1,7 @@
 # Suprem Khatri
 **A Software Developer | Data Analyst**
 
-[Supremekc678@gmail.com](mailto:Supremekc678@gmail.com) · [LinkedIn](https://www.linkedin.com/in/suprem-khatri/) · [GitHub](https://github.com/supremkc05)
+[Supremekc678@gmail.com](mailto:Supremekc678@gmail.com) · [LinkedIn](https://www.linkedin.com/in/suprem-khatri-7a8954285/) · [GitHub](https://github.com/supremkc05)
 
 ---
 
