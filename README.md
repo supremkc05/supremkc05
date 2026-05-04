@@ -7,8 +7,10 @@
 
 ## About Me
 
-I'm a Computer Science (Honors) student with a 3.62 GPA, focused on building intelligent, data-driven software. I work across the full development lifecycle — designing systems, writing clean backend code with Django and FastAPI, and deploying machine learning models into production.
+Computer Science professional specializing in software development and data analytics, with hands-on experience building intelligent, data driven applications from the ground up. I design and develop robust backend systems using Django and FastAPI, and deploy machine 
+learning models that solve real-world problems at scale.
 
-On the analytics side, I transform raw data into clear, actionable insights using statistical modeling, interactive dashboards, and predictive ML pipelines. I'm equally comfortable writing a REST API as I am training a neural network or presenting findings in Power BI.
+On the analytics side, I turn complex datasets into clear, actionable insights — through statistical modeling, predictive ML pipelines, and interactive dashboards. Whether architecting a REST API, engineering a data pipeline, or presenting findings in Power BI, 
+I bring the same focus on precision and impact.
 
-I care about building things that work well and communicate clearly — whether that's a model, a dashboard, or an application.
+I build things that work well, scale cleanly, and communicate results clearly.
